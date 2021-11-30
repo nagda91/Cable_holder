@@ -3,6 +3,8 @@ Cable holder 3D modell for my mouse cable
 
 I created this cable holder to hold my mouse's cable (dia.: 3mm)
 
+![Cable holder](pic.JPG)
+
 Maybe the wall thickness is a little bit op., but it does the job. It is clipped on a 1.4mm thick sheet metal (this is my monitor stand).
 
 I printed it on a stock Ender 3 v2
