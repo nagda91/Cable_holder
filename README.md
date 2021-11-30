@@ -8,4 +8,4 @@ Maybe the wall thickness is a little bit op., but it does the job. It is clipped
 
 I printed it on a stock Ender 3 v2
 
-For slicing I used Cure (latest one on 30/11/2021), everything on stock settings. I only changed the <Build plate adhesion> to <Brim>, because I wanted to be sure the thin left side, that cantacts with the bed, won't move after the first layer.
+For slicing I used Cura (latest one on 30/11/2021), everything on stock settings. I only changed the <Build plate adhesion> to <Brim>, because I wanted to be sure the thin left side, that cantacts with the bed, won't move after the first layer.
