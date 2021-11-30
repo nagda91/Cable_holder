@@ -1,7 +1,6 @@
 # Cable_holder
-Cable holder 3D modell for my mouse cable
 
-I created this cable holder to hold my mouse's cable (dia.: 3mm)
+I created this cable holder to hold my mouse's cable (dia.: 3mm). You can find the Solid Edge part file, and the stl file in the files.
 
 ![Cable holder](pic.JPG)
 
